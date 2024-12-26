@@ -1,0 +1,92 @@
+/**
+ * @name Kuromi
+ * @author ClearVision Team
+ * @version 6.9.0
+ * @description Highly customizable and beautiful theme for BetterDiscord.
+ * @source https://github.com/ClearVision/ClearVision-v6
+ * @website https://clearvision.github.io
+ * @invite dHaSxn3
+ * @BDEditor Clear Vision
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles:wght@700&display=swap');
+@import url('https://clearvision.github.io/ClearVision-v6/main.css');
+
+:root {
+  --main-color: #914186;
+  --hover-color: #FF9FD6;
+  --success-color: #E0A7DA;
+  --danger-color: #F62E70;
+  --url-color: var(--main-color);
+  --background-image: url('https://wallpapers.com/images/hd/kuromi-desktop-yjwz6gwytz2qcdwm.jpg');
+  --background-shading: 100%;
+  --background-position: center;
+  --background-size: cover;
+  --background-repeat: no-repeat;
+  --background-attachment: fixed;
+  --background-brightness: 94%;
+  --background-contrast: 100%;
+  --background-saturation: 100%;
+  --background-grayscale: 0%;
+  --background-invert: 0%;
+  --background-blur: 8px;
+  --background-overlay: rgba(0,0,0,0.6);
+  --user-popout-image: url('https://scontent-gig4-1.xx.fbcdn.net/v/t39.30808-6/311647113_10160629715369767_7965691907851022416_n.png?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=kkVmj9CKDA8Q7kNvgFFRzLZ&_nc_oc=AdhxehQ4aynU2Y2RLyS-23nhyyEWCJ_Yxjm_zgxh41Lg4RyR5j2iIuvbbXpVVnyZ09g&_nc_zt=23&_nc_ht=scontent-gig4-1.xx&_nc_gid=ABtSOmCibrDkJWZtIpTj0Z2&oh=00_AYCnw5yfJamYpsodu_OomP8Fh6ThFnrs-XHRX4E8MaqShw&oe=6772A86C');
+  --user-popout-position: center;
+  --user-popout-size: cover;
+  --user-popout-repeat: no-repeat;
+  --user-popout-attachment: fixed;
+  --user-popout-brightness: 100%;
+  --user-popout-contrast: 100%;
+  --user-popout-saturation: 100%;
+  --user-popout-grayscale: 0%;
+  --user-popout-invert: 0%;
+  --user-popout-blur: 3px;
+  --user-modal-image: url('https://clearvision.github.io/images/sapphire.jpg');
+  --user-modal-position: center;
+  --user-modal-size: cover;
+  --user-modal-repeat: no-repeat;
+  --user-modal-attachment: fixed;
+  --user-modal-brightness: 100%;
+  --user-modal-contrast: 100%;
+  --user-modal-saturation: 100%;
+  --user-modal-grayscale: 0%;
+  --user-modal-invert: 0%;
+  --user-modal-blur: 3px;
+  --home-icon: url('https://i.imgur.com/ylGgY8i.png');
+  --home-position: center;
+  --home-size: 40px;
+  --channel-unread: #FFC1E6;
+  --channel-color: rgb(255,189,254,0.53);
+  --muted-color: rgb(219,148,255,0.29);
+  --online-color: #C4FBD3;
+  --idle-color: #F5EBA4;
+  --dnd-color: #F7C1E1;
+  --streaming-color: #C99DF4;
+  --offline-color: #333333;
+  --main-font: Fuzzy Bubbles;
+  --code-font: Fuzzy Bubbles;
+  --channels-width: 220px;
+  --members-width: 240px;
+  --backdrop-overlay: rgba(0,0,0,0.8);
+  --backdrop-image: var(--background-image);
+  --backdrop-position: var(--background-position);
+  --backdrop-size: var(--background-size);
+  --backdrop-repeat: var(--background-repeat);
+  --backdrop-attachment: var(--background-attachment);
+  --backdrop-brightness: var(--background-brightness);
+  --backdrop-contrast: var(--background-contrast);
+  --backdrop-saturation: var(--background-saturation);
+  --backdrop-invert: var(--background-invert);
+  --backdrop-grayscale: var(--background-grayscale);
+  --backdrop-sepia: var(--background-sepia);
+  --backdrop-blur: var(--background-blur);
+  --bd-blue: var(--main-color);
+  --bd-blue-hover: var(--hover-color);
+  --bd-blue-active: var(--hover-color);
+}
+
+/* Any custom CSS below here */
+
+
