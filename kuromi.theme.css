@@ -1,5 +1,5 @@
 /**
- * @name Kuromi
+ * @name KuromisakiV2
  * @author ClearVision Team
  * @version 6.9.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -32,17 +32,17 @@
   --background-invert: 0%;
   --background-blur: 8px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: url('https://scontent-gig4-1.xx.fbcdn.net/v/t39.30808-6/311647113_10160629715369767_7965691907851022416_n.png?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=kkVmj9CKDA8Q7kNvgFFRzLZ&_nc_oc=AdhxehQ4aynU2Y2RLyS-23nhyyEWCJ_Yxjm_zgxh41Lg4RyR5j2iIuvbbXpVVnyZ09g&_nc_zt=23&_nc_ht=scontent-gig4-1.xx&_nc_gid=ABtSOmCibrDkJWZtIpTj0Z2&oh=00_AYCnw5yfJamYpsodu_OomP8Fh6ThFnrs-XHRX4E8MaqShw&oe=6772A86C');
-  --user-popout-position: center;
+  --user-popout-image: url('https://i.imgur.com/ZzaYFXk.jpeg');
+  --user-popout-position: top center;
   --user-popout-size: cover;
-  --user-popout-repeat: no-repeat;
-  --user-popout-attachment: fixed;
+  --user-popout-repeat: repeat;
+  --user-popout-attachment: scroll;
   --user-popout-brightness: 100%;
   --user-popout-contrast: 100%;
   --user-popout-saturation: 100%;
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
-  --user-popout-blur: 3px;
+  --user-popout-blur: 5px;
   --user-modal-image: url('https://clearvision.github.io/images/sapphire.jpg');
   --user-modal-position: center;
   --user-modal-size: cover;
@@ -67,7 +67,7 @@
   --offline-color: #333333;
   --main-font: Fuzzy Bubbles;
   --code-font: Fuzzy Bubbles;
-  --channels-width: 220px;
+  --channels-width: 240px;
   --members-width: 240px;
   --backdrop-overlay: rgba(0,0,0,0.8);
   --backdrop-image: var(--background-image);
