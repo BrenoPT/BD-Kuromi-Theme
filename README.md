@@ -4,3 +4,4 @@ Cute and simple Kuromi theme for Better Discord, with a pleasantly muted dark pu
 
 ![Screenshot 2024-12-26 062103](https://github.com/user-attachments/assets/34a2f53d-15a0-4c8b-b02e-53a4422d7869)
 ![Screenshot 2024-12-26 062115](https://github.com/user-attachments/assets/1a5390a1-6c6a-4151-a026-b8523ca3df57)
+![Screenshot 2024-12-26 081511](https://github.com/user-attachments/assets/ee130946-fa9f-4499-9dcc-2e8e29da9b78)
