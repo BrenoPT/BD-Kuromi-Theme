@@ -43,8 +43,8 @@
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
   --user-popout-blur: 5px;
-  --user-modal-image: url('https://clearvision.github.io/images/sapphire.jpg');
-  --user-modal-position: center;
+  --user-modal-image: url('https://i.imgur.com/eMkg00c.jpeg');
+  --user-modal-position: bottom right;
   --user-modal-size: cover;
   --user-modal-repeat: no-repeat;
   --user-modal-attachment: fixed;
